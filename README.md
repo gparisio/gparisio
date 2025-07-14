@@ -9,13 +9,6 @@ Graduating in Systems Analysis and Development at Tiradentes University, with pr
 
 ---
 
-<div style="inline_block" align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gparisio&layout=compact&langs_count=7&theme=dark"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=gparisio&theme=dark"/>
-</div>
-
----
-
 <h3>Languages and Frameworks</h3>
 <div style-"display: inline-block">
   <img align="center" alt="Parisio-Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"/>
